@@ -6,3 +6,5 @@ joblib==1.2.0
 scikit-learn==1.4.2
 streamlit==1.14.0
 numpy==1.25.0
+distutils
+setuptools==72.1.0
